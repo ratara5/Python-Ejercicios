@@ -1,0 +1,13 @@
+def mostrarperfil(nombre, edad, estatura_m, estatura_cm, num_amigos, genero, pais):
+	print()
+	print("De nuevo, gracias! Los siguientes son tus datos: ")
+	print("-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-")
+	print("Nombre: ", nombre)
+	print("Edad: ", edad)
+	print("Estatura: ", estatura_m, " metro(s) con ", estatura_cm, " centímetros")
+	print("Amigos: ", num_amigos)
+	print("Género: ", genero)
+	print("País: ", pais)
+	print("Sigue disfrutando de PETBOOK")
+	print("-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-")
+	print()
